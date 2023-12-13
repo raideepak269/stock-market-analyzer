@@ -1,1 +1,2 @@
-# stock-market-analyzer
+# stock-market-analyzer 
+#SQL Project
